@@ -1,2 +1,2 @@
 # EventRegistrationForm
-Blithchron Event Registration Form
+Blithchron Team Event Registration Form
